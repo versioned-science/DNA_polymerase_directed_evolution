@@ -60,7 +60,7 @@ Supplementary references**………………………………………………
 
 ## 
 
-<img src="./supplement/media/image1.png"
+<img src="./media/image1.png"
 style="width:1.8125in;height:8.68889in" />**Figure S1. Phi29 DNAP
 homologues in public databases.** Sequences with \>80% sequence identity
 and \>80% query cover from a blast search of the Phi29 DNAP protein
@@ -70,7 +70,7 @@ Viewer<sup>2</sup>. Mismatches relative to the query (Phi29 DNAP
 sequence) are shown in red and insertions are indicated by a blue
 bracket. Only 20 sequences show significant similarity to phi29 DNAP.
 
-<img src="./supplement/media/image2.tiff"
+<img src="./media/image2.tiff"
 style="width:6.32727in;height:7.20835in" />
 
 **Figure S2. InDel distribution and composition and sequencing depth
@@ -98,7 +98,7 @@ variants but relatively close to the true ranking (dotted pink line).
 All calculations were done using the *InDel_Quantification.ipynb* Julia
 notebook (**Supplementary Information S3**).
 
-<img src="./supplement/media/image3.tiff"
+<img src="./media/image3.tiff"
 style="width:6.34667in;height:7.64333in" />
 
 **Figure S3. HNA synthesis time courses by D12A-THR and p562del with
@@ -117,7 +117,7 @@ protein on either TempN_2.7_ExoR (T_2.7) or TempN_1T_ExoR (T_1T, Table
 S2) templates. TempN_1T_ExoR is another TempN_ExoR derivative with 4
 substitutions that remove nucleotide repeats.
 
-<img src="./supplement/media/image4.tiff"
+<img src="./media/image4.tiff"
 style="width:6.48352in;height:5.24677in" />
 
 **Figure S4.** **Phi29 DNAP P562del reduced DNA binding capacity long
@@ -129,7 +129,7 @@ Fraction of intermediate Pol-DNA complex), and (**C**) the fraction of
 stable Pol-DNA complex by D12A-THR (orange) and P562del (blue) over time
 of reactions from (**A**). 2 biological repeats were performed.
 
-<img src="./supplement/media/image5.png"
+<img src="./media/image5.png"
 style="width:6.50183in;height:7.64173in"
 alt="Graphical user interface, chart Description automatically generated" />
 
@@ -150,7 +150,7 @@ multiplied times a 100 to yield the error type percentage displayed.
 (**C**) The total percentage of inversions and transversions introduced
 by each mutant.
 
-<img src="./supplement/media/image6.png"
+<img src="./media/image6.png"
 style="width:6.50059in;height:4.3622in"
 alt="Chart Description automatically generated" />
 
@@ -169,7 +169,7 @@ error type were divided by the sum of both scores to obtain the
 frequency value per position and were plotted against the Fidelity_ref
 length.
 
-<img src="./supplement/media/image7.png"
+<img src="./media/image7.png"
 style="width:6.07087in;height:6.05906in"
 alt="Chart, scatter chart Description automatically generated" />
 
