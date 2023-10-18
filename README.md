@@ -677,7 +677,7 @@ accumulated intermediates between primer and full-length extension).
 Primer extension using alternative templates ruled out possible
 sequence-specific (**Figure S3B-C**).
 
-<img src="./media/image3.tiff"
+<img src="./media/image3.png"
 style="width:6.42857in;height:8.08689in" />
 
 ***Figure 3. P562 deletion in Phi29 DNAP enables faster initiation of
@@ -713,7 +713,7 @@ insight into those processes, always comparing P562del, to the parental
 enzymes, with (Exo+THR: Phi29 DNAP M8R, V51A, M97T, G197D, E221K, Q497P,
 K512E, F526L) or without (D12A-THR) active exonuclease function.
 
-<img src="./media/image4.tiff"
+<img src="./media/image4.png"
 style="width:6.29768in;height:7.65934in" />
 
 ***Figure 4.** **Phi29 DNAP P562del reduced DNA binding capacity.**

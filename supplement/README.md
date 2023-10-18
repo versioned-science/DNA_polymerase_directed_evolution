@@ -70,7 +70,7 @@ Viewer<sup>2</sup>. Mismatches relative to the query (Phi29 DNAP
 sequence) are shown in red and insertions are indicated by a blue
 bracket. Only 20 sequences show significant similarity to phi29 DNAP.
 
-<img src="./media/image2.tiff"
+<img src="./media/image2.png"
 style="width:6.32727in;height:7.20835in" />
 
 **Figure S2. InDel distribution and composition and sequencing depth
@@ -98,7 +98,7 @@ variants but relatively close to the true ranking (dotted pink line).
 All calculations were done using the *InDel_Quantification.ipynb* Julia
 notebook (**Supplementary Information S3**).
 
-<img src="./media/image3.tiff"
+<img src="./media/image3.png"
 style="width:6.34667in;height:7.64333in" />
 
 **Figure S3. HNA synthesis time courses by D12A-THR and p562del with
@@ -117,7 +117,7 @@ protein on either TempN_2.7_ExoR (T_2.7) or TempN_1T_ExoR (T_1T, Table
 S2) templates. TempN_1T_ExoR is another TempN_ExoR derivative with 4
 substitutions that remove nucleotide repeats.
 
-<img src="./media/image4.tiff"
+<img src="./media/image4.png"
 style="width:6.48352in;height:5.24677in" />
 
 **Figure S4.** **Phi29 DNAP P562del reduced DNA binding capacity long
